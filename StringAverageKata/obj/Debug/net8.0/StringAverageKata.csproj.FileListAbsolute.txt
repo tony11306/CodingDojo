@@ -97,3 +97,4 @@ C:\Users\tony.xu37\RiderProjects\CodingDojo\StringAverageKata\obj\Debug\net8.0\r
 C:\Users\tony.xu37\RiderProjects\CodingDojo\StringAverageKata\obj\Debug\net8.0\StringAverageKata.pdb
 C:\Users\tony.xu37\RiderProjects\CodingDojo\StringAverageKata\obj\Debug\net8.0\StringAverageKata.genruntimeconfig.cache
 C:\Users\tony.xu37\RiderProjects\CodingDojo\StringAverageKata\obj\Debug\net8.0\ref\StringAverageKata.dll
+C:\Users\tony.xu37\RiderProjects\CodingDojo\StringAverageKata\obj\Debug\net8.0\StringAverageKata.sourcelink.json
