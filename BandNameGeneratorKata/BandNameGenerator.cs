@@ -9,8 +9,7 @@ public static class BandNameGenerator
             return CapitalizeString(RepeatString(str));
         }
 
-        var capitalizedStr = CapitalizeString(str);
-        return $"The {capitalizedStr}";
+        return $"The {CapitalizeString(str)}";
 
     }
 
