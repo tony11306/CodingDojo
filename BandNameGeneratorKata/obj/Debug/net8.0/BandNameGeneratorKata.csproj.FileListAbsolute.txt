@@ -98,3 +98,8 @@ C:\Users\tony.xu37\RiderProjects\CodingDojo\BandNameGeneratorKata\obj\Debug\net8
 C:\Users\tony.xu37\RiderProjects\CodingDojo\BandNameGeneratorKata\obj\Debug\net8.0\BandNameGeneratorKata.pdb
 C:\Users\tony.xu37\RiderProjects\CodingDojo\BandNameGeneratorKata\obj\Debug\net8.0\BandNameGeneratorKata.genruntimeconfig.cache
 C:\Users\tony.xu37\RiderProjects\CodingDojo\BandNameGeneratorKata\obj\Debug\net8.0\ref\BandNameGeneratorKata.dll
+C:\Users\tony.xu37\RiderProjects\CodingDojo\BandNameGeneratorKata\bin\Debug\net8.0\CoverletSourceRootsMapping_BandNameGeneratorKata
+C:\Users\tony.xu37\RiderProjects\CodingDojo\BandNameGeneratorKata\bin\Debug\net8.0\CountingDuplicatesKata.deps.json
+C:\Users\tony.xu37\RiderProjects\CodingDojo\BandNameGeneratorKata\bin\Debug\net8.0\CountingDuplicatesKata.runtimeconfig.json
+C:\Users\tony.xu37\RiderProjects\CodingDojo\BandNameGeneratorKata\bin\Debug\net8.0\CountingDuplicatesKata.dll
+C:\Users\tony.xu37\RiderProjects\CodingDojo\BandNameGeneratorKata\bin\Debug\net8.0\CountingDuplicatesKata.pdb

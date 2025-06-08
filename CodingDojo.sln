@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringAverageKata", "String
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BandNameGeneratorKata", "BandNameGeneratorKata\BandNameGeneratorKata.csproj", "{9A39D1CF-8067-41D1-A4C0-727AA7FB137C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingDuplicatesKata", "CountingDuplicatesKata\CountingDuplicatesKata.csproj", "{B12FDFC2-BF83-4017-8D3F-7DF45DCA43E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{9A39D1CF-8067-41D1-A4C0-727AA7FB137C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A39D1CF-8067-41D1-A4C0-727AA7FB137C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A39D1CF-8067-41D1-A4C0-727AA7FB137C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B12FDFC2-BF83-4017-8D3F-7DF45DCA43E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B12FDFC2-BF83-4017-8D3F-7DF45DCA43E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B12FDFC2-BF83-4017-8D3F-7DF45DCA43E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B12FDFC2-BF83-4017-8D3F-7DF45DCA43E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

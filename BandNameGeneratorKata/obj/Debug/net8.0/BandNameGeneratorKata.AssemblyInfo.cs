@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BandNameGeneratorKata")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99a33be585bda806551b711d01109b428b3add95")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aaa6d9e67e8fed1265e59b8c3eadf11961e4a6d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("BandNameGeneratorKata")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BandNameGeneratorKata")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
