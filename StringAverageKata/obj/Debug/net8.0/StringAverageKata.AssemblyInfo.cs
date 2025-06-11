@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StringAverageKata")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+917ecf9323d74f17073c8eb2df01c12a4588daa8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48ccba5550eb973fbdc7f97a602827c0d17f0058")]
 [assembly: System.Reflection.AssemblyProductAttribute("StringAverageKata")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StringAverageKata")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

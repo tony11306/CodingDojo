@@ -1,5 +1,6 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestProjectMapping/=3F87B0D6_002D1370_002D478C_002D98EE_002DA25F1548B512/@EntryIndexedValue">3F87B0D6-1370-478C-98EE-A25F1548B512</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestProjectMapping/=644CF7D8_002D6194_002D4DA7_002D95FA_002DBBE7AAEAEE7B/@EntryIndexedValue">644CF7D8-6194-4DA7-95FA-BBE7AAEAEE7B</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestProjectMapping/=88A9BF14_002D3425_002D45CD_002D8C75_002D7B7C2FC16C91/@EntryIndexedValue">88A9BF14-3425-45CD-8C75-7B7C2FC16C91</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestProjectMapping/=9A39D1CF_002D8067_002D41D1_002DA4C0_002D727AA7FB137C/@EntryIndexedValue">9A39D1CF-8067-41D1-A4C0-727AA7FB137C</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestProjectMapping/=B12FDFC2_002DBF83_002D4017_002D8D3F_002D7DF45DCA43E2/@EntryIndexedValue">B12FDFC2-BF83-4017-8D3F-7DF45DCA43E2</s:String>
