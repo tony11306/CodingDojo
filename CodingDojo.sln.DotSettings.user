@@ -7,6 +7,7 @@
 	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestProjectMapping/=D58DAFAA_002D418B_002D4565_002DA242_002DB1DD995EDD4A/@EntryIndexedValue">D58DAFAA-418B-4565-A242-B1DD995EDD4A</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestProjectMapping/=DDFF3A64_002D6743_002D484B_002DAE2A_002D4095DEE959E6/@EntryIndexedValue">DDFF3A64-6743-484B-AE2A-4095DEE959E6</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestProjectMapping/=ED92A6BD_002D852A_002D4C3C_002DB61F_002D22934FE3CAE8/@EntryIndexedValue">ED92A6BD-852A-4C3C-B61F-22934FE3CAE8</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestProjectMapping/=EDABC5CA_002D4417_002D4768_002DB91F_002DC52AB8543AA8/@EntryIndexedValue">9A39D1CF-8067-41D1-A4C0-727AA7FB137C</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestTemplateMapping/=NUnit3x/@EntryIndexedValue">db4927dd-2e12-48a7-9a84-2b7e3e31b9c8</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=eb6723d9_002Dac10_002D4c32_002D91e2_002Db949e2c616d3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from Solution" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;Solution /&gt;&#xD;
