@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeSumKata", "ThreeSumKat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextBiggerNumberWithTheSameDigitsKata", "NextBiggerNumberWithTheSameDigitsKata\NextBiggerNumberWithTheSameDigitsKata.csproj", "{ED92A6BD-852A-4C3C-B61F-22934FE3CAE8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainsDuplicateIIKata", "ContainsDuplicateIIKata\ContainsDuplicateIIKata.csproj", "{DDFF3A64-6743-484B-AE2A-4095DEE959E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{ED92A6BD-852A-4C3C-B61F-22934FE3CAE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED92A6BD-852A-4C3C-B61F-22934FE3CAE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED92A6BD-852A-4C3C-B61F-22934FE3CAE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDFF3A64-6743-484B-AE2A-4095DEE959E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDFF3A64-6743-484B-AE2A-4095DEE959E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDFF3A64-6743-484B-AE2A-4095DEE959E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDFF3A64-6743-484B-AE2A-4095DEE959E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
